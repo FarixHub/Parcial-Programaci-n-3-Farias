@@ -8,7 +8,7 @@ El proyecto cumple con todas las partes del examen: CRUD completo, validaciones,
 
 ## Cómo ejecutar el proyecto
 1. Descargar la carpeta completa del proyecto (manteniendo la estructura original).  
-2. Abrir el archivo **`pintureria.html`** en un navegador moderno (Chrome, Edge o Firefox).  
+2. Abrir el archivo **`pintureria.html`** en un navegador.  
 3. Asegurarse de tener conexión a Internet (la API se aloja en Render).  
 4. Interactuar con las tres pestañas principales del sitio: **Alta**, **Listado** y **Estadísticas**.
 
